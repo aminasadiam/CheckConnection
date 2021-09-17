@@ -1,0 +1,4 @@
+this is a script for check internet connection, ping and make log in txt file.
+
+Social Media : @aminasadiam
+Email : aminasadiam@outlook.com
